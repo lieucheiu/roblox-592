@@ -1,2 +1,2 @@
 # roblox-592
-Roblox v592 to bypass Roblox update and 
+Vào phần Release để lấy Fiddler Script + Roblox UWP package
