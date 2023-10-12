@@ -5,8 +5,7 @@
 
 **Sau khi tải xong Roblox cũ thì sẽ dùng Fiddler để vượt check Update của Roblox / After install Roblox through AppInstaller, you will want to use Fiddler to bypass Roblox's Update checkpoint.**
 
-Tutorial Video how to install Fiddler Script ( by Vinhuchi) :
-
+Tutorial Video how to install Fiddler Script ( by Vinhuchi), if your internet is poor then just download the video and follow what it did / Cách đưa Fiddler script để vượt check Roblox, tải video nếu như mạng yếu để xem :
 
 https://github.com/longudesu1111/roblox-592/assets/118007825/c85a137c-86ee-4713-acd8-ea1f1ff73a85
 
