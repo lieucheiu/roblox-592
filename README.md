@@ -1,5 +1,5 @@
 # #readme.md/ Hướng dẫn
-**Vào phần Release để lấy Roblox UWP package, Fiddler script để dưới phần README.md/ The UWP package is located in Releases
+**Vào phần Release để lấy Roblox UWP package, Fiddler script để dưới phần README.md/ The UWP package is located in Releases**
 
 ![image](https://github.com/longudesu1111/roblox-592/assets/118007825/cc91a0c2-cde4-4e49-8ec4-4f7891778850)
 
